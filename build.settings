@@ -39,7 +39,7 @@ settings =
 	},
 	android = {
 		usesPermissions = {
-			"android.permission.READ_CONTACTS"
+			"android.permission.READ_CONTACTS",
 		}
 	},
 	plugins = {
