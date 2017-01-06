@@ -45,7 +45,7 @@ settings =
 	plugins = {
 		["plugin.contacts"] =
 	        {
-	            publisherId = "com.scottrules44",
+	            publisherId = "tech.scotth",
 	            supportedPlatforms = { iphone=true, android=true }
 	        },
 	},
